@@ -19,7 +19,7 @@ Explaination: This is a automation script for recon. This script runs three nmap
 USAGE:
    
 git clone 
-chmod +x recon-sk.sh
+-chmod +x recon-sk.sh
 mv recon-sk.sh /usr/local/bin
 now you can execute this script from anywhere in terminal
 recon-sk.sh <IP>
