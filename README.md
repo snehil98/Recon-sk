@@ -1,6 +1,6 @@
 # Recon-sk
 Script by : SNEHIL KUMAR\
-Instagram : @_._snehil_\
+Instagram : @_._snehil_
 
 
 Disclaimer : This is a simple bash script i did for fun. I am new for cyber security field and i am from non tech background\ 
