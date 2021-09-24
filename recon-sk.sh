@@ -81,7 +81,6 @@ nmap -T4 --script vuln $1 -oN Vuln$Name.txt
 
 sleep 5
 
-
 ffuf -w /usr/share/wordlists/dirb/common.txt -u http://$1/FUZZ -e .aspx,.html,.php,.txt,.old,.bak,.txt -o fuff$Name.txt
 
 sleep 5
