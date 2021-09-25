@@ -19,7 +19,7 @@
 #        //NOTE: You can comment out the scan if you dont want to use.//
 
 
-figlet -c -f Cybermedium  "      RECON-SK     " | lolcat
+figlet -c -f slant  "      RECON-SK     " | lolcat
 
 echo "
  ______________________________________________________________________________
