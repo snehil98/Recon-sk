@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-#Script by : SNEHIL KUMAR
-#Instagram : @_._snehil_
+#Script by : Sanatantech
+#Instagram : @sanatantech
 
 
 #Disclaimer : This is a simple bash script i did for fun. I am new for cyber security field and i am from non tech background 
@@ -11,7 +11,7 @@
 
 
 #Explaination: This is a automation script for recon. This script runs three nmap scans. 
-#	       1st scan is  TCP SYN port scan. 
+#	             1st scan is  TCP SYN port scan. 
 #              2nd scan is AGRESSIVE scan 
 #              3rd scan is it performs a Vulnerability scan. 
 #              After the NMAP Scans it performs a fuff scan and smbmap if port 445 is open and enum4linux for additional info.
@@ -33,7 +33,7 @@ fi
 
 if [ -z "$1" ]
 then
-        echo "Usage: ./scan.sh <IP>"
+        echo "Usage: ./recon-sk.sh <IP>"
         exit 1
 fi 
 
@@ -48,7 +48,7 @@ echo "
 |                                                                              |
 |                                                                              |
 |                                                                              |
-|                 User Name:          [  SNEHIL     ]                          |
+|                 User Name:          [ SANATANTECH ]                          |
 |                                                                              |
 |                 Password:           [  INVALID    ]                          |
 |                                                                              |
@@ -57,7 +57,7 @@ echo "
 |                            [ SUBMIT ]                                        |
 |______________________________________________________________________________|
 |                                                                              |
-|INSTAGRAM:@_._snehil_                  BLOG:https://snehil-cyber.medium.com   |
+|INSTAGRAM:@sanatantech                BLOG:https://sanatantech.co             |
 |______________________________________________________________________________| "  | lolcat
 
 
