@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-#Script by : Sanatantech
+#Script by : Snehil Kumar
 #Instagram : @sanatantech
 
 
